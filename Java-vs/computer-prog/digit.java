@@ -1,0 +1,16 @@
+import java.util.*;
+class digit 
+{
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter a 3-Digit number");
+        int n=sc.nextInt();
+        int H=n/100;
+        int T=(n/100)%10;
+        int O=n%10;
+
+        int S=H+T+O;
+        System.out.println("Sum is:"+S);
+    }
+}
