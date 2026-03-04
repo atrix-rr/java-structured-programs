@@ -7,7 +7,7 @@ class digit
         System.out.println("Enter a 3-Digit number");
         int n=sc.nextInt();
         int H=n/100;
-        int T=(n/100)%10;
+        int T=(n/10)%10;
         int O=n%10;
 
         int S=H+T+O;
