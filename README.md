@@ -4,9 +4,9 @@ This repository contains well-structured Java programs organized into different 
 
 ## 📁 Structure
 - Basics
-- Input/Output
 - Conditions
-- Loops
+- Input/Output
+- Buffered Reader 
 
 ## 🎯 Goal
 To write clean and structured code for better understanding.
